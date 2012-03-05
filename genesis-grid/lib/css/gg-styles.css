@@ -1,0 +1,125 @@
+/* Featured Post Grid
+------------------------------------------------------------ */
+
+#content .genesis-grid {
+    float: left;
+    margin: 10px 0 10px 1%;
+}
+
+#content .genesis-grid-column-1 {
+    clear:left;
+	margin-left:0 !important;
+}
+
+
+/* 1 Column Feature
+------------------------------------------------------------ */
+
+#content .feature1 {
+	width: 930px;
+}
+
+#content .feature1 .entry-content, #content .feature1 h2 {
+	width: 916px;
+	margin: 0 auto;
+}
+
+
+/* 2 Columns Grid
+------------------------------------------------------------ */
+#content .size1of2 {
+	margin-top: 15px;
+}
+
+.genesis-grid-even, .genesis-feature-even {
+	margin: 0 0 10px;
+}
+
+.genesis-grid-odd, .genesis-feature-odd {
+	margin: 0 2% 10px 0;
+}
+
+.genesis-grid-even, .genesis-feature-even, #content .genesis-grid-column-2.size1of2 {
+	float: right;
+	width: 46%;
+}
+
+.genesis-grid-odd, .genesis-feature-odd, #content .genesis-grid-column-1.size1of2 {
+	clear: both;
+	float: left;
+	width: 46%;
+}
+
+/* 3 Columns Grid
+------------------------------------------------------------ */
+#content .genesis-grid-column-1.size1of3 {
+	width: 30%;
+	float: left;
+}
+
+#home-1.home-1-widgets .widget_gridblog .genesis-grid-column-1.size1of3 {
+	margin-right: 12px;
+}
+
+#content .genesis-grid-column-3.size1of3 {
+	float: right;
+}
+.size1of3 {
+    width: 30%;
+	clear: none;
+}
+
+/* 4 Columns Grid
+------------------------------------------------------------ */
+#content .genesis-grid.size1of4 {
+    float: left;
+    margin-top: 10px;
+	margin-bottom: 10px;
+}
+#content .genesis-grid-column-4.size1of4 {
+	float: right;
+}
+#content .genesis-grid-column-2.size1of4, #content .genesis-grid-column-3.size1of4 {
+	margin-left: 26px;
+}
+.size1of4 {
+    width: 20%;
+	clear: none;
+}
+
+/* 5 Columns Grid
+------------------------------------------------------------ */
+#content .genesis-grid-column-5.size1of5 {
+	float: right;
+	margin-left: 0;
+}
+#content .size1of5 {
+    width: 16.4%;
+	clear: none;
+	margin-left: 1%;
+}
+
+#home-1.home-1-widgets .widget_gridblog .size1of5 {
+    width: 16%;
+	clear: none;
+	margin-left: 1%;
+}
+
+/* 6 Columns Grid
+------------------------------------------------------------ */
+#content .genesis-grid-column-6.size1of6 {
+	float: right;
+	margin-left: 0;
+}
+
+#content .size1of6 {
+    width: 13%;
+	clear: none;
+	margin-left: 1%;
+}
+
+#home-1.home-1-widgets .widget_gridblog .size1of6 {
+    width: 12.7%;
+	clear: none;
+	margin-left: 1%;
+}
