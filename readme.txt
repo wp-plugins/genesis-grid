@@ -13,7 +13,7 @@ This plugin will provide a page template and a GUI for using the Genesis Grid Lo
 Extends the Genesis Grid to a page template. More information coming soon...
 
 IMPORTANT: 
-**You must have [Genesis](http://wpsmith.net/go/genesis "Purchase Genesis") installed. Click [here](http://wpsmith.net/go/genesis "Purchase Genesis") to purchase [Genesis](http://wpsmith.net/go/genesis "Purchase Genesis")**
+**You must have [Genesis](http://wpsmith.net/get-genesis "Purchase Genesis") installed. Click [here](http://wpsmith.net/get-genesis "Purchase Genesis") to purchase [Genesis](http://wpsmith.net/get-genesis "Purchase Genesis")**
 
 
 == Installation ==
