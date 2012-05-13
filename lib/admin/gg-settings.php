@@ -136,5 +136,3 @@ function gg_register_grid_sanitization_filters() {
 		) );
 	
 }
-
-?>

@@ -34,5 +34,3 @@ foreach ($theme_settings as $setting => $data) {
 	}
 		
 }
-
-?>

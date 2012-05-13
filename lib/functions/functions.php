@@ -394,4 +394,3 @@ function gg_multicheck_group( $field, $meta ) {
 	}
 	echo '<span class="cmb_metabox_description">', $field['desc'], '</span>';
 }
-?>

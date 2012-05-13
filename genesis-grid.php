@@ -3,7 +3,7 @@
 Plugin Name: Genesis Grid
 Plugin URI: http://www.wpsmith.net/genesis-featured-images
 Description: The first generation of this plugin will provide a template and a GUI for using the Genesis Grid Loop.
-Version: 0.5 Beta
+Version: 0.6 Beta
 Author: Travis Smith
 Author URI: http://www.wpsmith.net/
 License: GPLv2
@@ -111,6 +111,3 @@ function gg_styles () {
 		wp_enqueue_style( 'gg_style' , GG_URL . "/lib/css/gg-styles.css" , null , '1.0' );
 }
 
-
-
-?>

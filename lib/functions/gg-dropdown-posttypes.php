@@ -54,4 +54,3 @@ function gg_dropdown_posttypes($args = array('selected' => 0)) {
 
 	return $output;
 }
-?>
